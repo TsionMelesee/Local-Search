@@ -1,0 +1,17 @@
+50.0
+Item,weight,value, n_items
+smart doorbell,1.4,200,3
+headphones,1.0,150,3
+virtual reality headset,27.6,1000,3
+wireless speaker,11.2,100,3
+smartphone,1.1,500,2
+smart home assistant,1.0,200,4
+tablet,1.0,700,2
+drone,1.0,500,4
+gaming console,31.4,500,4
+electric toothbrush,1.0,50,3
+e-reader,1.0,200,2
+laptop,1.8,1000,4
+fitness equipment,2.0,500,1
+camera,1.4,800,3
+smartwatch,4.2,300,2

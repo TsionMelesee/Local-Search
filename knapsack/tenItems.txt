@@ -1,0 +1,12 @@
+50.0
+Item,weight,value, n_items
+electric toothbrush,2.5,50,4
+fitness equipment,7.7,500,1
+smartwatch,1.2,300,3
+smart thermostat,1.1,300,1
+smart doorbell,46.7,200,4
+smartphone,1.0,500,1
+fitness tracker,13.9,100,2
+portable charger,1.0,50,3
+drone,25.6,500,3
+tablet,1.0,700,2
